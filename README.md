@@ -6,3 +6,5 @@ OpenAuto is a free, open-source alternative to the proprietary Android automatio
 * No Google Play Services are used
 * There is no telemetry
 * There is no proprietary code
+## Need devs
+I, LittleRyder34 do not know how to code or create UI in Android Studio. I need developers who are willing to do this.
