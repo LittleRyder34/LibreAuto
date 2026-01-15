@@ -1,7 +1,7 @@
-# OpenAuto
-Greetings! Welcome to the OpenAuto GitHub page.
-## What is OpenAuto?
-OpenAuto is a free, open-source alternative to the proprietary Android automation app "Automate" by developer "LlamaLab"
+# LibreAuto
+Greetings! Welcome to the LibreAuto GitHub page.
+## What is LibreAuto?
+LibreAuto is a free, open-source alternative to the proprietary Android automation app "Automate" by developer "LlamaLab"
 ## But why use it?
 * No Google Play Services are used
 * There is no telemetry
